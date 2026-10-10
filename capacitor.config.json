@@ -1,0 +1,10 @@
+{
+  "appId": "com.tasbi.production",
+  "appName": "Tasbi Production",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "backgroundColor": "#EEF2F0" },
+  "plugins": {
+    "StatusBar": { "style": "DARK", "backgroundColor": "#12302B", "overlaysWebView": false }
+  }
+}
